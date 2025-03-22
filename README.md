@@ -1,7 +1,12 @@
-# 🐍 Vivado Snake Game – DLab 2023 Fall
+# 🐍 Snake – DLab 2023 Fall
 
 A hardware-implemented Snake Game built using Verilog on Xilinx Vivado. This game features basic movement, food consumption, obstacles, and a scoring system, designed as part of the DLab 2023 Fall course.
 
+---
+## Start
+![Cover](image/IMG_5547.png)
+## some demo preview during coding (unfinished)
+![boarderless](image/IMG_5533.gif)
 ---
 
 ## 🎮 Controls
