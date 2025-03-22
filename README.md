@@ -3,10 +3,13 @@
 A hardware-implemented Snake Game built using Verilog on Xilinx Vivado. This game features basic movement, food consumption, obstacles, and a scoring system, designed as part of the DLab 2023 Fall course.
 
 ---
-## Start
+- Start
 ![Cover](image/IMG_5547.png)
-## some demo preview during coding (unfinished)
+- short demo preview during coding (unfinished)
+- Boarderless
 ![boarderless](image/IMG_5533.gif)
+- obstacle and score
+![snake](image/snake.png)
 ---
 
 ## 🎮 Controls
